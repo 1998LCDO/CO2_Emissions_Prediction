@@ -1,4 +1,4 @@
-#Binary Classification of Machine Failures
+#Tema:Predict CO2 Emissions in Rwanda
 Nombre: Laura Cristina Diaz Osorio.
 C.C: 1018351214
 Programa de matricula: Ingenieria Industrial (virtual)
@@ -14,4 +14,4 @@ df = pd.read_csv(ruta)
 Primero se da acceso al drive con el codigo import drive, seguido se importa la libreria pandas
 la cual nos va a permitir leer a el archivo con el dataframe para su uso.
 
-link DataFrame:https://www.kaggle.com/competitions/playground-series-s3e17/overview
+link DataFrame:https://www.kaggle.com/competitions/playground-series-s3e20/data
