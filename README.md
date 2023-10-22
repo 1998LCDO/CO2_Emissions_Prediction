@@ -51,5 +51,6 @@ df = pd.read_csv('train.csv')
 ```
 df.head()
 ```
-**# videos **
+*
+##videos
 Video segunda entrega (https://youtu.be/D_ouVxeRUas)
