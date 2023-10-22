@@ -43,6 +43,7 @@ files.upload()
 ```
 6.Leer el archivo de entrenamiento en un DataFrame de Pandas:
 ```
+
 import pandas as pd
 df = pd.read_csv('train.csv')
 ```
@@ -50,3 +51,5 @@ df = pd.read_csv('train.csv')
 ```
 df.head()
 ```
+**# videos **
+Video segunda entrega (https://youtu.be/D_ouVxeRUas)
