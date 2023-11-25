@@ -54,5 +54,6 @@ df.head()
 
 ## Videos
 Video segunda entrega (https://youtu.be/D_ouVxeRUas)
+
 Video entrega final
 (https://youtu.be/XmIDtPWXXEs)
