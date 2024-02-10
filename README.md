@@ -53,7 +53,7 @@ df.head()
 ```
 
 ## Videos
-Video segunda entrega (https://youtu.be/D_ouVxeRUas)
+Video segunda entrega (https://youtu.be/D_ouVxeRUa)
 
 Video entrega final
-(https://youtu.be/XmIDtPWXXEs)
+(https://youtu.be/XmIDtPWXXE)
